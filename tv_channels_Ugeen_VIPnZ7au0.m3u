@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1, tvg-name="UGEEN IPTV" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="EsartIPTV"
+#EXTINF:-1, tvg-name=" UGEEN IPTV" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="EsartIPTV"
 http://ugeen.live:8080/Ugeen_VIPnZ7au0/e9B8KA/3019
-#EXTINF:-1,•●★★--- Islami ---★★●•
+#EXTINF:-1, group-title="•●★★--- Islami ---★★●•"
 http://ugeen.live:8080/Ugeen_VIPnZ7au0/e9B8KA/116
 #EXTINF:-1,AR: Saudi Qraan
 http://ugeen.live:8080/Ugeen_VIPnZ7au0/e9B8KA/126
