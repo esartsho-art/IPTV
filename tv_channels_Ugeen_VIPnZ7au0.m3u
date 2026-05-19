@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, tvg-name=" UGEEN IPTV" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="EsartIPTV"
+#EXTINF:-1, tvg-name=" UGEEN IPTV" tvg-logo="http://ugeen.live/images/logo-dark-sm.png" group-title="EsartIPTV"
 http://ugeen.live:8080/Ugeen_VIPnZ7au0/e9B8KA/3019
 #EXTINF:-1, "•★- Islami -★•"
 http://ugeen.live:8080/Ugeen_VIPnZ7au0/e9B8KA/116
