@@ -61,7 +61,7 @@ http://ugeen.live:8080/Ugeen_VIPnZ7au0/e9B8KA/3291
 http://ugeen.live:8080/Ugeen_VIPnZ7au0/e9B8KA/3444
 #EXTINF:-1,•●★★--- beIN Sport Full HD ---★★●•
 http://ugeen.live:8080/Ugeen_VIPnZ7au0/e9B8KA/3220
-#EXTINF:-1,beIN SPORTS Full HD 1
+#EXTINF:-1, tvg-name=" beIN SPORTS Full HD 1" tvg-logo="https://github.com/esartsho-art/IPTV/blob/esartsho-art-patch-1/1-HD.png" group-title="•★- beIN Sport Full HD -★•"
 http://ugeen.live:8080/Ugeen_VIPnZ7au0/e9B8KA/3221
 #EXTINF:-1,beIN SPORTS Full HD 2
 http://ugeen.live:8080/Ugeen_VIPnZ7au0/e9B8KA/3222
